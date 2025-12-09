@@ -6,7 +6,7 @@
 const WORKER_URL = "https://locket-vip.heehe0009.workers.dev/"; 
 const QR_BANK_ID = "MB";
 const QR_ACCOUNT_NO = "567244"; 
-const QR_ACCOUNT_NAME = "MANH"; 
+const QR_ACCOUNT_NAME = "NGUYEN TIEN MANH"; 
 
 // Biến toàn cục để lưu trữ cấu hình động
 let DYNAMIC_CONFIG = {
