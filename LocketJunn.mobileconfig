@@ -17,7 +17,7 @@
             </dict>
 
             <key>PayloadDisplayName</key>
-            <string>LocketGold Đại phúc</string>
+            <string>LocketGold T.mạnh</string>
             <key>PayloadIdentifier</key>
             <string>com.profile.dns.001</string>
             <key>PayloadType</key>
@@ -30,12 +30,12 @@
     </array>
 
     <key>PayloadDisplayName</key>
-    <string>LocketGold Đại Phúc</string>
+    <string>LocketGold T.mạnh</string>
     <key>PayloadDescription</key>
     <string>ADB Block (v1.0):
 - Chặn quảng cáo cho toàn bộ thiết bị...
 - Nâng cấp LocketGold
-☎️ liên hệ zalo ☎️:0584616263 | Config by: Đại phúc</string>
+☎️ liên hệ zalo ☎️:0326353220 | Config by: T.mạnh</string>
 
     <key>PayloadIdentifier</key>
     <string>com.profile.system.001</string>
